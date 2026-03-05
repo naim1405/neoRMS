@@ -1,0 +1,12 @@
+[submodule "neoRMS-backend"]
+	path = neoRMS-backend
+	url = https://github.com/naim1405/neoRMS-backend
+[submodule "neoRMS_Management"]
+	path = neoRMS_Management
+	url = https://github.com/zanifazini0844/neoRMS_Management
+[submodule "neoRMS_frontend_customer"]
+	path = neoRMS_frontend_customer
+	url = https://github.com/MiNi2136/neoRMS_frontend_customer
+[submodule "neo-RMS-Waiter"]
+	path = neo-RMS-Waiter
+	url = https://github.com/hasinsadaf/neo-RMS-Waiter
