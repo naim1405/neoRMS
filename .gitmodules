@@ -10,3 +10,6 @@
 [submodule "neo-RMS-Waiter"]
 	path = neo-RMS-Waiter
 	url = https://github.com/hasinsadaf/neo-RMS-Waiter
+[submodule "neoRMS-Chef"]
+	path = neoRMS-Chef
+	url = https://github.com/hasinsadaf/neoRMS-Chef
