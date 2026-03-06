@@ -251,3 +251,40 @@ Detailed service-level docs are available in each submodule:
 - `neo-RMS-Waiter/README.md`
 - `neoRMS-Chef/README.md`
 - `neoRMS_AI_server/README.md`
+
+## Team Contributions
+
+### Backend Team
+
+| [naim1405](https://github.com/naim1405) | [mahfuz-saim](https://github.com/mahfuz-saim) | [Q3Alpha](https://github.com/Q3Alpha) |
+|---|---|---|
+|Project setup|Feature Flow Design|Order Managemetnt|
+|Dockerize  |User management  | Table Reservation |
+|Authentication  |Restaurant CRUD  | SQA & Testing |
+|Schema Design  |Menu Items CRUD |  |
+|Websocket  |Inventory Product Entry  |  |
+|AI Integration|Analytics Endpoints||
+|Code Review|Coupons CRUD||
+||Payment Gateway Integration||
+
+### Frontend Team
+
+| [hasinsadaf](https://github.com/hasinsadaf) | [zanifazini0844](https://github.com/zanifazini0844) | [MiNi2136](https://github.com/MiNi2136) | [mahfuz-saim](https://github.com/mahfuz-saim)|[naim1405](https://github.com/naim1405)|
+|---|---|---|---|---|
+|Waiter -  DashBoard | Admin - Auth | Customer - Authentication | Payment Gateway Integration|Chef - WebSocket|
+|Waiter - Order Placement and Status Contorl | Admin - Dashboard | Customer - Browse Restaurant  | Customer - Table Reservation|Waiter - WebSocket|
+|Waiter - Profile Management   | Admin - Order Management | Customer - Browse Menu | Customer - Review integration|Waiter - Pagination|
+|Chef -  Order Board For tracking orders | Admin - Menu & Inventory Management | Customer - Food Details |Customer - Order API Integration ||
+|Chef - Order status control |Admin - Table Management|Customer - Cart|||
+|Chef -Profile Management|Admin - Staff Management |Order UI|||
+
+
+### AI Service
+
+| [kefaet03](https://github.com/kefaet03) |
+|---|
+| Probabilistic Recommendation Engine |
+|Review and Feedback Analyzer  |
+|Review Sentiment Analysis |
+
+
