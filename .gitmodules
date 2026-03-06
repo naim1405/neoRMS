@@ -13,3 +13,6 @@
 [submodule "neoRMS-Chef"]
 	path = neoRMS-Chef
 	url = https://github.com/hasinsadaf/neoRMS-Chef
+[submodule "neoRMS_AI_server"]
+	path = neoRMS_AI_server
+	url = https://github.com/kefaet03/neoRMS_AI_server
