@@ -258,7 +258,7 @@ Detailed service-level docs are available in each submodule:
 
 | [naim1405](https://github.com/naim1405) | [mahfuz-saim](https://github.com/mahfuz-saim) | [Q3Alpha](https://github.com/Q3Alpha) |
 |---|---|---|
-|Project setup|Feature Flow Design|Order Managemetnt|
+|Project setup|Feature Flow Design|Order Management|
 |Dockerize  |User management  | Table Reservation |
 |Authentication  |Restaurant CRUD  | SQA & Testing |
 |Schema Design  |Menu Items CRUD |  |
@@ -272,7 +272,7 @@ Detailed service-level docs are available in each submodule:
 | [hasinsadaf](https://github.com/hasinsadaf) | [zanifazini0844](https://github.com/zanifazini0844) | [MiNi2136](https://github.com/MiNi2136) | [mahfuz-saim](https://github.com/mahfuz-saim)|[naim1405](https://github.com/naim1405)|
 |---|---|---|---|---|
 |Waiter -  DashBoard | Admin - Auth | Customer - Authentication | Payment Gateway Integration|Chef - WebSocket|
-|Waiter - Order Placement and Status Contorl | Admin - Dashboard | Customer - Browse Restaurant  | Customer - Table Reservation|Waiter - WebSocket|
+|Waiter - Order Placement and Status Control | Admin - Dashboard | Customer - Browse Restaurant  | Customer - Table Reservation|Waiter - WebSocket|
 |Waiter - Profile Management   | Admin - Order Management | Customer - Browse Menu | Customer - Review integration|Waiter - Pagination|
 |Chef -  Order Board For tracking orders | Admin - Menu & Inventory Management | Customer - Food Details |Customer - Order API Integration ||
 |Chef - Order status control |Admin - Table Management|Customer - Cart|||
